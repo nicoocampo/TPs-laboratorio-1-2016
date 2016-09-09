@@ -75,7 +75,7 @@ float factorial(float x)
      *
      * \return El numero validado. Si se detectan caracteres devuelve 0.
      */
-   float validar()
+   float validar(void)
 {
     int i=0;
     char c[20];
