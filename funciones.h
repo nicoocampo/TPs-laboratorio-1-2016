@@ -5,7 +5,7 @@ float resta(float x, float y);
 float division(float x, float y);
 float multiplicacion(float x, float y);
 float factorial(float x);
-float validar ();
+float validar (void);
 float validivi(float x);
 float valifacto(float x);
 #endif // FUNCIONES_H_INCLUDED
